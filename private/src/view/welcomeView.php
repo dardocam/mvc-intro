@@ -11,7 +11,7 @@
 <body>
     <h1>welcome view</h1>
 
-    <a href=" <?= APP_ROOT . 'index.php?view=formulario' ?>">Ingresar al formulario</a>
+    <a href=" <?= APP_ROOT . 'index.php?view=formulario&activity=gestion' ?>">Ingresar al formulario</a>
 
 </body>
 
